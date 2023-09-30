@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Turret+Road:wght@500&display=swap');
+
+.App {
+  margin: 0;
+  padding: 0;
+}
+.loggin
+{
+  width: 100vw;
+  height: 100vh;
+  background-image: url(./Img/BackgroundL.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.containLoggin
+{
+  position: relative;
+  width: 20vw;
+  height: 20vw;
+  backdrop-filter: blur(3px);
+  background-color: rgba(255, 255, 255, 0.546);
+  border-radius: 1.5vw;
+  top: 5.5vh;
+  left: 3vw;
+}
+h1
+{
+  margin: 0;
+  padding: 0;
+  font-family: 'Turret Road', cursive;
+}
+
